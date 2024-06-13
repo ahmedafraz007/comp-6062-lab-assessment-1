@@ -7,6 +7,6 @@ console.log(myStudentNumber);
 
 console.log(TemplateLiterals);
 
-const headerContent = document.querySelector(h1);
+const headerContent = document.querySelector("h1");
 headerContent.innerHTML = TemplateLiterals;
 headerContent.classList.add('headingPrimary');

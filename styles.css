@@ -1,0 +1,28 @@
+.headingPrimary
+{
+    color: #1cffd9;
+    margin-top :40px;
+    margin-bottom :40px;
+}
+headingSecondary
+{
+    text-color:#8142f5;
+
+}
+img
+{
+    border-radius: 25px;
+}
+footer
+{
+    background-color : #1c73ff;
+    color: #fff;
+    padding : 35px;
+    margin-top: 40px;
+}
+media
+{
+    background-color: #757575;
+    Text-color : #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
